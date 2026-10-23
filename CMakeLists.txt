@@ -1,0 +1,1 @@
+# Módulo cargado automáticamente por AzerothCore
